@@ -1,4 +1,4 @@
-# Portal IA da Premix
+# Portal IA Corporativo
 
 App desenvolvido com Nicegui.
 
